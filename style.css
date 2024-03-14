@@ -1,0 +1,42 @@
+#test {
+  color: gray;
+}
+div { width: 150px;}
+
+
+.label {
+  float: left;
+  margin-right: 20px;
+  width: 135px;
+  border-left: solid 3px #D2691E;
+  padding-left: 10px;
+}
+
+.inputs {
+  float: left;
+  width: 200px;
+}
+
+input[type="text"],
+input[type="email"] {
+  border: solid 1px #aaa;
+  padding: 7px;
+  font-size: 12px;
+  border-radius: 2px;
+}
+
+input[type="submit"] {
+  background: #c2704f;
+  border: none;
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 10px 20px;
+  margin: 0 5px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px black;
+  cursor: pointer;
+}
+
+
+
